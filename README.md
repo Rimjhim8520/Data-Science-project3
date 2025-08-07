@@ -1,7 +1,7 @@
 # Data-Science-project3
 💼 Data Science Internship Project | CodSoft 📊 A complete machine learning project using real-world data to Titanic Survival prediction. Includes data preprocessing, visualization, model training, evaluation, and conclusion.
 
-🏢 Internship: CodSoft Internship Role: Data Science Intern Project Duration: [01-07-2025 to 30-07-2025] Task Number: Task [4]
+🏢 Internship: CodSoft Internship Role: Data Science Intern Project Duration: [01-07-2025 to 30-07-2025] Task Number: Task [1]
 
 📌 Project Objective :
 
